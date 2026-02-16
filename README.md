@@ -30,7 +30,7 @@ All data fetched from public sources and updated in real-time/near real-time.
 curl -X GET "https://btcmacroapi.onrender.com/full-dashboard" \
   -H "X-API-Key: 21satoshi"
 ```
-###Example Response (shortened)
+### Example Response (shortened)
 
 ```
 JSON{
